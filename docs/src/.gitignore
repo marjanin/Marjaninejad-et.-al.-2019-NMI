@@ -1,0 +1,29 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.toc
+*.fls
+*.xtr
+
+# Latexmk
+*.fdb_latexmk
+
+# SyncTeX
+*.synctex.gz
+
+# LaTeX Beamer
+*.snm
+*.vrb
+*.nav
+*.out
+
+# Compiled product
+*.pdf
+
+# BibTeX
+*.bbl
+*.blg
+
+# Sublime Text Project Files (usually contain absolute paths)
+*.sublime-project
+*.sublime-workspace

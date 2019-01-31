@@ -1,0 +1,1 @@
+Some of the codes for the double pendulum simulations are either editted or inspired from http://ruina.tam.cornell.edu/research/topics/locomotion_and_robotics/ranger/ranger_paper/Reports/Ranger_Robot/control/simulator/doublependulum.html
